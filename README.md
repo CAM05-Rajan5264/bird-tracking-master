@@ -1,3 +1,0 @@
-# Bird tracking map
-
-🦅
